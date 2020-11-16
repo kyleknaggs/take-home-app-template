@@ -37,7 +37,7 @@ In addition to a style guide, the app also contains a minimalist CSS Reset meant
 
 ```
 
-## Testing
+## Tests
 
 This project uses the default testing setup that comes with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -48,7 +48,7 @@ This means that it uses:
 - [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/) so that it is easy to test React components.
 - [user-event](https://testing-library.com/docs/ecosystem-user-event/) to simulate browser interactions.
 
-### How do you debug a test?
+## Debugging Tests
 
 This project has also been configured so that it is easy to debug tests that are written for this project.
 
