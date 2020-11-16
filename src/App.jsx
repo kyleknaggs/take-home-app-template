@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <header>
-        <p>Take Home Template App</p>
+        <h1>Template app for take home assignments</h1>
       </header>
     </div>
   );
