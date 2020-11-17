@@ -6,7 +6,7 @@ This app was created so that it can be used as a template for applications that 
 
 It was bootstrapped using [Create React App](https://github.com/facebook/create-react-app).
 
-## Common scripts
+## Useful Scripts
 
 `npm start`
 
@@ -57,7 +57,7 @@ To debug a test in Google Chrome:
 1. Place a `debugger;` statement at the line where you want the code to pause execution.
 2. Run `npm run test:debug` in the Terminal.
 3. Open `about:inspect` in Chrome.
-4. Click the "inspect" link in the webpage.
+4. Click the "inspect" link.
 5. Click the "Resume Script Execution" button.
 
 The code should now pause execution at the `debugger;` statement that you placed in the file that you want to debug.
